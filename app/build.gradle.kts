@@ -74,6 +74,10 @@ dependencies {
     implementation("com.google.android.material:material:1.10.0")
     implementation("androidx.annotation:annotation:1.6.0")
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.6.2")
+
+    implementation("androidx.paging:paging-runtime-ktx:3.3.0")
+    implementation("androidx.security:security-crypto:1.0.0")
+
     implementation("io.ktor:ktor-client-auth:2.3.6")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")

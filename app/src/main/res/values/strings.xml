@@ -1,9 +1,7 @@
 <resources>
     <string name="app_name">QPNetMonitor</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
-    <string name="login_button">Login</string>
     <string name="about_text">This application allows monitoring QPNet simulation from your android phone</string>
     <string name="back">Back</string>
     <string name="instruction">Usage</string>
@@ -19,4 +17,10 @@
     <string name="welcome_toast">Welcome, %1$s!</string>
     <string name="but_start">Start</string>
     <string name="but_stop">Stop</string>
+    <string name="instruction_text">Instruction</string>
+    <string name="but_login">Login</string>
+    <string name="channel_name">QPNetMonitor</string>
+    <string name="channel_description">QPNetMonitor</string>
+    <string name="welcome_notification">We have an instruction!</string>
+    <string name="welcome_notification_title">Instruction!</string>
 </resources>

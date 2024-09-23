@@ -4,6 +4,7 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class MessageSimAction(
+    val simName: String,
     val type: Type
 ) {
 

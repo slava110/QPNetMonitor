@@ -4,5 +4,5 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class MessageSimUpdate(
-    val elements: List<Long>
+    val data: Map<String, ULong>
 )

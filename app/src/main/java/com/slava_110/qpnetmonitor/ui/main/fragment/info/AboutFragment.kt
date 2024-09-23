@@ -16,6 +16,7 @@ class AboutFragment : Fragment(R.layout.fragment_about) {
         binding.butUsage.setOnClickListener {
             parentFragmentManager.commit {
                 replace<InstructionFragment>(R.id.activity_main)
+                addToBackStack(null)
             }
         }
 

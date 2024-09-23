@@ -3,18 +3,26 @@
     <string name="app_name">Монитор QPNet</string>
     <string name="prompt_email">Почта</string>
     <string name="prompt_password">Пароль</string>
-    <string name="login_button">Войти</string>
-    <string name="about_text">А</string>
+    <string name="about_text">Это приложение позволяет следить за симуляцией QPNet с вашего Android-устройства</string>
     <string name="back">Назад</string>
     <string name="instruction">Инструкция</string>
+    <string name="instruction_text">В меню выбора модели можно выбрать одну из доступных моделей на стороне сервера.
+        Приложение подключится к серверу и отобразит информацию о симуляции. Симуляцией можно управлять при помощи
+        соответствующих кнопок на экране симуляции.
+    </string>
     <string name="author_name">Попов С.М.</string>
     <string name="author_group">ИКБО-28-21</string>
     <string name="but_selector">Выбор модели</string>
     <string name="but_author">Автор</string>
     <string name="but_about">О приложении</string>
+    <string name="but_login">Войти</string>
     <string name="but_logout">Выход</string>
     <string name="text_menu">Меню</string>
     <string name="welcome_toast">Добро пожаловать, %1$s!</string>
     <string name="but_start">Запуск</string>
     <string name="but_stop">Остановка</string>
+    <string name="channel_name">QPNetMonitor</string>
+    <string name="channel_description">QPNetMonitor</string>
+    <string name="welcome_notification">У нас есть инструкция!</string>
+    <string name="welcome_notification_title">Инструкция!</string>
 </resources>

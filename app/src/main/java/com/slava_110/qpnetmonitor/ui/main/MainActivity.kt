@@ -1,6 +1,5 @@
 package com.slava_110.qpnetmonitor.ui.main
 
-import androidx.activity.ComponentActivity
 import androidx.appcompat.app.AppCompatActivity
 import com.slava_110.qpnetmonitor.R
 

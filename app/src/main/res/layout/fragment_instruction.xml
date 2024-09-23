@@ -7,9 +7,9 @@
                                                    tools:context=".ui.main.fragment.info.AboutFragment"
                                                    android:id="@+id/aboutLayout">
     <TextView
-            android:text="@string/about_text"
-            android:layout_width="348dp"
-            android:layout_height="90dp" android:id="@+id/textView2"
+            android:text="@string/instruction_text"
+            android:layout_width="353dp"
+            android:layout_height="404dp" android:id="@+id/textView2"
             app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.5" app:layout_constraintBottom_toBottomOf="parent"
